@@ -8,4 +8,5 @@ RPG: This folder contains everything for the English version of the game
 
 RPG - Afr: This folder contains everything for the Afrikaans(my native language) version of the game
 
+
 Feel free to modify and improve on the code and send it to me so I can upload it for everyone to experience and enjoy!
